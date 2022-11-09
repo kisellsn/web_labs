@@ -77,18 +77,18 @@ footer{
     padding: 20px;
     padding-top: 40px;
     padding-bottom: 40px;
-	background-color: #94b6d6;
-	overflow: hidden;
+    background-color: #94b6d6;
+    overflow: hidden;
     display:flex;
     min-height: 20%;
     align-items: center;
 }
 #headfoot {
     border: 2px solid black;
-	margin-right: 20px;
-	padding: 10px;
-	min-width: 20%;
-	background-color: #ffffff;
+    margin-right: 20px;
+    padding: 10px;
+    min-width: 20%;
+    background-color: #ffffff;
     text-align: right;
     margin-left: 40%;
 }
@@ -216,7 +216,7 @@ footer{
         border: 2px solid black;
         margin-right: 20px;
         padding: 10px;
-        min-width: 20%;
+        min-width: 160px;
         background-color: #ffffff;
         text-align: right;
         margin-left: 40%;
